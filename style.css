@@ -1,0 +1,37 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+table{
+    margin: 20px auto;
+    width: 50%;
+    border-collapse: collapse;
+    background-color: white;
+    font-family: "Reenie Beanie", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+th{
+    background-color: #0066d3;
+    color: white;
+    padding: 10px;
+}
+
+td{
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+}
+
+#erro{
+    color: red;
+}
+
+.linhas-pares{
+    background-color: gray;
+}
