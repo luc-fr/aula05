@@ -1,0 +1,15 @@
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    border: 1px solid black;
+    height: 100vh;
+    /*flex-wrap: wrap;*/
+    /*flex-direction: column;*/
+}
+
+.filhos{
+    /*width: 300px;*/
+    border: 1px solid black;
+}
